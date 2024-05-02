@@ -20,7 +20,7 @@ const ApeNFT = styled('img')<ApeNFTProps>`
   top: ${props => props.positionY}%;
   left: ${props => props.positionX}%;
   border-radius: 50%;
-  cursor: not-allowed;
+  cursor: pointer;
 `;
 
 export { ApeNFT, BackgroundPaper };

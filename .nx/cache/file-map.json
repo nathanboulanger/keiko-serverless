@@ -47,6 +47,17 @@
           ]
         },
         {
+          "file": "packages/backend/functions/createNft/config.ts",
+          "hash": "13156211439271546882",
+          "deps": [
+            "npm:libs/configHelper/getHandlerPath"
+          ]
+        },
+        {
+          "file": "packages/backend/functions/createNft/handler.ts",
+          "hash": "4045450677870458200"
+        },
+        {
           "file": "packages/backend/functions/getNft/config.ts",
           "hash": "1812013032866295571",
           "deps": [
@@ -69,7 +80,7 @@
         },
         {
           "file": "packages/backend/functions/index.ts",
-          "hash": "4477367186879093183"
+          "hash": "3895375887936783516"
         },
         {
           "file": "packages/backend/libs/configHelper/getHandlerPath.ts",
@@ -116,7 +127,7 @@
         },
         {
           "file": "packages/backend/serverless.ts",
-          "hash": "7832732493169874610",
+          "hash": "16464151607240554211",
           "deps": [
             "npm:@serverless/typescript"
           ]
